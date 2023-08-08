@@ -1,0 +1,24 @@
+{
+  "name": "auto-plex-routes",
+  "version": "0.0.3",
+  "description": "complement package for auto-plex-create, this package creates all code to you for back-end new route controller and service",
+  "type": "module",
+  "bin": {
+    "auto-plex-routes": "bin/auto-plex-routes.js",
+    "local_test_routes": "bin/auto-plex-routes.js"
+  },
+  "keywords": [
+    "scaffold",
+    "automation",
+    "typescript",
+    "cli",
+    "Back-end",
+    "Front-end",
+    "Frameworks"
+  ],
+  "author": "devPlex",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.9"
+  }
+}
